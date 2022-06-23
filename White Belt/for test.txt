@@ -1,0 +1,8 @@
+Add 0-1-2 event1
+Add 1-2-3 event2
+Find 0-1-2  (event1)
+
+Del 0-1-2 (Deleted 1 events)
+Print (0001-02-03 event2)
+Del 1-2-3 event2 (Deleted successfully)
+Del 1-2-3 event2 (Event not found)
